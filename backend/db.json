@@ -1,0 +1,29 @@
+{
+  "users": [],
+  "items": [
+    {
+      "id": "1",
+      "title": "Wireless Headphones",
+      "description": "Over-ear, noise cancelling",
+      "price": 2499,
+      "category": "Electronics",
+      "image": "/img/headphones.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Classic White T-Shirt",
+      "description": "100% cotton",
+      "price": 499,
+      "category": "Apparel",
+      "image": "/img/tshirt.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Coffee Mug",
+      "description": "Ceramic 330ml",
+      "price": 299,
+      "category": "Home",
+      "image": "/img/mug.jpg"
+    }
+  ]
+}
